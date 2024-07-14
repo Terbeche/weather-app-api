@@ -1,11 +1,3 @@
-[project]
-name = "weather-app-api"
-version = "0.1.0"
-description = "The API of a weather app web-app"
-authors = [
-  { name = "Mostefa Terbeche", email = "termus96@gmail.com" }
-]
-
 [tool.ruff]
 select = [
     "E", # pycodestyle
